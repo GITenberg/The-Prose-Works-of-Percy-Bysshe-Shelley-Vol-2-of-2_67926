@@ -1,0 +1,41 @@
+_repo: The-Prose-Works-of-Percy-Bysshe-Shelley-Vol-2-of-2_67926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Percy Bysshe
+    alias: Shelley, P. B. (Percy Bysshe)
+    birthdate: 1792
+    deathdate: 1822
+    gutenberg_agent_id: '1529'
+    url: http://www.gutenberg.org/2009/agents/1529
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+  editor:
+    agent_name: Shepherd, Richard Herne
+    alias: Shepherd, R. H. (Richard Herne)
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '36973'
+    url: http://www.gutenberg.org/2009/agents/36973
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Herne_Shepherd
+description: ''
+gutenberg_issued: '2022-04-27'
+identifiers:
+  gutenberg: '67926'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008956221
+pgterms:marc905: 20190710220718shelley
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: Tim Lindell, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United Kingdom :Chatto & Windus,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English prose literature'
+- GITenberg
+title: The Prose Works of Percy Bysshe Shelley, Vol. 2 [of 2]
+url: http://www.gutenberg.org/ebooks/67926
